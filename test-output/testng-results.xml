@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18785" started-at="2023-03-11T16:04:44Z" finished-at="2023-03-11T16:05:03Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18785" started-at="2023-03-11T16:04:44Z" finished-at="2023-03-11T16:05:03Z">
+      <class name="org.project.Q2_RedBus">
+        <test-method status="PASS" signature="tc()[pri:0, instance:org.project.Q2_RedBus@5792a0]" name="tc" duration-ms="18729" started-at="2023-03-11T16:04:44Z" finished-at="2023-03-11T16:05:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc -->
+      </class> <!-- org.project.Q2_RedBus -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

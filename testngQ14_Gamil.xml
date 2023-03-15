@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <parameter name = "username" value= "khaja@gamil.com"/>
+  <parameter name = "password" value= "1234567890"/>
+  <test thread-count="5" name="Test">
+ <classes>
+      <class name="org.project.Q14_Gmail_Paramater"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
